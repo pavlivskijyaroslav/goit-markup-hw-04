@@ -444,7 +444,6 @@ footer .span-logo {
 .team-social-item-link-footer:hover {
   background-color: #31d0aa;
 }
-.team-social-item-link-footer:focus,
-.team-social-item-link-footer:active {
+.team-social-item-link-footer:focus {
   background-color: #31d0aa;
 }
