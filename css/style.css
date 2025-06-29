@@ -414,7 +414,7 @@ footer .span-logo {
 }
 .about-footer {
   display: flex;
-  gap: 120px;
+  align-items: baseline;
 }
 .about-social-text {
   margin-bottom: 16px;
@@ -432,6 +432,7 @@ footer .span-logo {
   margin-bottom: 16px;
 }
 .about-text {
+  margin-right: 120px;
   max-width: 264px;
   font-weight: 400;
   font-size: 16px;
