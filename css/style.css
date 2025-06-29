@@ -383,7 +383,6 @@ button:focus {
   border-radius: 50%;
 }
 .team-social-item-link:hover,
-.team-social-item-link:active,
 .team-social-item-link:focus {
   background-color: #404bbf;
 }
@@ -441,12 +440,7 @@ footer .span-logo {
   color: var(--cloud);
   font-family: var(--font-family);
 }
-/* .team-social-item-link-footer:hover {
-  background-color: #31d0aa;
-} */
+.team-social-item-link-footer:hover,
 .team-social-item-link-footer:focus {
-  background-color: #31d0aa;
-}
-.team-social-item-link-footer:active {
   background-color: #31d0aa;
 }
