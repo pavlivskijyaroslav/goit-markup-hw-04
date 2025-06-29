@@ -441,7 +441,10 @@ footer .span-logo {
   color: var(--cloud);
   font-family: var(--font-family);
 }
-.team-social-item-link-footer:hover,
+.team-social-item-link-footer:hover {
+  background-color: #31d0aa;
+}
+.team-social-item-link-footer:focus,
 .team-social-item-link-footer:active {
   background-color: #31d0aa;
 }
