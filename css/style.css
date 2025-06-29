@@ -182,10 +182,11 @@ button:focus {
   background-size: cover;
   display: flex;
   justify-content: center;
-  padding: 188px 0 188px;
+  max-width: 1440px;
+  padding: 188px 0;
+  margin: 0 auto;
 }
 .hero-wrapper {
-  max-width: 1440px;
   display: flex;
   flex-direction: column;
   align-items: center;
